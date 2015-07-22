@@ -17,7 +17,7 @@ module Algorithms
   class QuickFind
     def initialize(size)
       @size  = size
-      @nodes = (1..size).to_a
+      @nodes = (0..size).to_a
     end
 
     def connect(p, q)
