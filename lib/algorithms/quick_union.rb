@@ -1,5 +1,5 @@
 module Algorithms
-  # Quick-find algorithm for solving dynamic connectivity
+  # Algorithm for solving dynamic connectivity problems
   #
   # Usage:
   #
